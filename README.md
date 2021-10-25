@@ -1,0 +1,2 @@
+# NyaCoin
+Just other Coin
